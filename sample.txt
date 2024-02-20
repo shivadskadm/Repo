@@ -1,0 +1,2 @@
+This is sample file for GitHub
+its my first labtest

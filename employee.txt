@@ -1,0 +1,7 @@
+name
+employeeaccount
+Bank
+Branch
+State
+Dist
+
